@@ -21,13 +21,12 @@ After installing Ubuntu Server in a virtual machine, I established an SSH connec
 #### Step 2: Update Packages
 Run the following command to update your system:**sudo apt-get update && sudo apt-get upgrade -y**
 #### Step 3: Download Splunk Trial
-Log in to Splunk’s website and download the Enterprise Free Trial (you’ll get 60 days free)
-https://www.splunk.com/en_us/download.html
+Log in to Splunk’s website and download the Enterprise Free Trial (you’ll get 60 days free) : **wget...amd64.deb"**
+https://www.splunk.com/en_us/download.html.
 <img width="1113" height="552" alt="image" src="https://github.com/user-attachments/assets/82fb45b8-8e5e-4c2b-9981-b11ef4fc52f5" />
 
 #### Step 4 : Install the downloaded Splunk package
-After downloading the .deb file, install it using the following command:
-**sudo dpkg -i splunk-10.0.2-e2d18b4767e9-linux-amd64.deb**
+After downloading the .deb file, install it using the following command: **sudo dpkg -i splunk-10.0.2-e2d18b4767e9-linux-amd64.deb**
 <img width="831" height="241" alt="image" src="https://github.com/user-attachments/assets/41aec6c5-333c-4ccc-8729-be6988d2b94c" />
 #### Step 5: Verify Installation Directory
 After installation, Splunk should be located in the following directory: **/opt/splunk/**
