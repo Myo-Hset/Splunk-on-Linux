@@ -5,7 +5,7 @@
 I first practiced Splunk SIEM using the Windows installer, avoiding Linux because I was afraid of errors and challenges. While preparing for Splunk certification, I learned how to install Splunk on Linux. This project provides a step‑by‑step guide for installing Splunk on Ubuntu Server(Linux).
 
 ### Skills Learned
-Splunk Deployment: Learned how to install Splunk Enterprise from a .deb package and verify its installation on Linux.
+- Splunk Deployment: Learned how to install Splunk Enterprise from a .deb package and verify its installation on Linux.
 
 ### Tools Used
 
