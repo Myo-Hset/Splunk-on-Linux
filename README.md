@@ -2,7 +2,7 @@
 
 ## Objective
 
-This project provides a step‑by‑step guide for installing Splunk Enterprise (60‑Day Trial) on Ubuntu Server(Linux)
+This project provides a step‑by‑step guide for installing Splunk Enterprise (60‑Day Trial) on Ubuntu Server (Linux)
 
 ### Skills Learned
 - Splunk Deployment: Learned how to install Splunk Enterprise from a .deb package and verify its installation on Linux.
